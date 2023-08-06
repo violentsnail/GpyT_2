@@ -1,0 +1,5 @@
+{
+    "openai_api_key": "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",
+    "logname": ".output.txt",
+    "db_file": "./db/main.db"
+}
